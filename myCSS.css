@@ -1,0 +1,44 @@
+window
+{
+    background-color: white;
+    color: black;
+}
+
+button
+{
+    background-image: none;
+    color: black;
+}
+
+#bright
+{
+    background-color: #FAEBD7;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#dark
+{
+    background-color: #d9ba41;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#Check
+{
+    background-color: #DC143C;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#Selected
+{
+    background-color: #32CD32;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
